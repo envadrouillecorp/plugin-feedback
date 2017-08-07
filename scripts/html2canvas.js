@@ -293,7 +293,7 @@ _html2canvas.Util.Children = function( elem ) {
 
   Contributor(s):
       Niklas von Hertzen <http://www.twitter.com/niklasvh>
-      André Fiedler      <http://www.twitter.com/sonnenkiste>
+      AndrĂ© Fiedler      <http://www.twitter.com/sonnenkiste>
 
   Released under MIT License
  */

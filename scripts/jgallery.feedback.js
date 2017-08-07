@@ -10,12 +10,12 @@ var JFeedback = {
          config.tr['Loading the feedback plugin...'] = 'Chargement du plugin...';
          config.tr['Continue'] = 'Continuer';
          config.tr['Send'] = 'Envoyer';
-         config.tr['Your feedback was sent succesfully. Thanks!'] = 'Votre commentaire a été envoyé. Merci !';
+         config.tr['Your feedback was sent succesfully. Thanks!'] = 'Votre commentaire a Ã©tÃ© envoyÃ©. Merci !';
          config.tr['There was an error sending your feedback to the server.'] = 'Une erreur s\'est produite.';
-         config.tr['Feedback (include your email if you want a response)'] = 'Commentaire (incluez votre email si vous voulez une réponse) ';
-         config.tr['Highlight or blackout important information'] = 'Mettez en avant certains éléments';
+         config.tr['Feedback (include your email if you want a response)'] = 'Commentaire (incluez votre email si vous voulez une rÃ©ponse) ';
+         config.tr['Highlight or blackout important information'] = 'Mettez en avant certains Ã©lÃ©ments';
          config.tr['Invalid captcha'] = 'Captcha invalide';
-         config.tr['Sending feedback... This might take a few minutes.'] = 'Envoi du commentaire... Cette opération peut prendre quelques minutes.';
+         config.tr['Sending feedback... This might take a few minutes.'] = 'Envoi du commentaire... Cette opÃ©ration peut prendre quelques minutes.';
          config.tr['Continue without sending screenshot'] = 'Continuer sans envoyer de capture';
       }
    },
